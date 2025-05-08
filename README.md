@@ -8,9 +8,9 @@ Google Vision API に画像を渡すだけです。
 ・Google Vision APi
 
 ## レールを敷く
-Google Cloud でキーIDを設定し.jsonを取得
+Google Cloud でキーIDを設定し.jsonを取得し
 
-ローカルで立ち上げて画像を送るだけ
+ローカルで立ち上げて画像を送る
 
 一応、文章の間違いを直せるようにしている。
 
