@@ -5,7 +5,7 @@ Google Vision API に画像を渡すだけです
 
 ## 材料
 
-・Google Vision APi
+・Google Vision API
 
 ## レールを敷く
 Google Cloud でキーIDを設定し.jsonを取得し
