@@ -8,6 +8,8 @@ Google Vision API に画像を渡すだけです。
 ・Google Vision APi
 
 ## レールを敷く
+Google Cloud でキーIDを設定し.jsonを取得
+
 ローカルで立ち上げて画像を送るだけ
 
 一応、文章の間違いを直せるようにしている。
